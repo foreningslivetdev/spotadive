@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import data from "../data/diving.json";
 
 async function triggerUpdate() {
