@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { runImport } from "@/scripts/import-diving";
+import { runImport } from "../../../scripts/import-diving";
 
 export async function POST(request) {
   const auth = request.headers.get("authorization");
