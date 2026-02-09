@@ -1,0 +1,10 @@
+{
+  "season": "2023/2024",
+  "total": 42,
+  "teams": [
+    { "team": "Frölunda", "count": 6 },
+    { "team": "Färjestad", "count": 5 },
+    { "team": "Skellefteå", "count": 4 },
+    { "team": "Luleå", "count": 3 }
+  ]
+}
